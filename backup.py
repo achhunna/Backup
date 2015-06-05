@@ -1,4 +1,5 @@
 ''' Script to copy file into Backup/ folder with timestamp on filename (C) 2015 Achhunna Mali'''
+# Hosted on GitHub https://github.com/achhunna/Backup
 
 import os
 import shutil
