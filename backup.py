@@ -12,7 +12,7 @@ timeStampStr = datetime.now().strftime(timeStamp)
 locationPath = ""
 
 # Declare filename and folder variable
-fullFileName = "Feeder.xlsx"
+fullFileName = "Foo.xlsx"
 folder = "Backup"
 
 # Define file copying function
